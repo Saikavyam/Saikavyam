@@ -80,19 +80,38 @@
 [![Portfolio](https://img.shields.io/badge/-Explore_My_World-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-three-umber-11.vercel.app/)
 
 </div>
-
-<!-- 🌠 Closing Poetry & Footer -->
+<!-- ✨ Stunning Visual Footer -->
 <div align="center">
 
-```java
-public class Farewell {
-    public static void main(String[] args) {
-        System.out.println("May your functions always return");
-        System.out.println("Your loops be elegant and swift");
-        System.out.println("And may we meet in the digital dawn");
-        System.out.println("Where creativity and code uplift");
-    }
-}
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=25&fontAlignY=70&text=Thank+You+For+Visiting+My+Code+Galaxy&animation=fadeIn
+<!-- Animated Gradient Divider -->
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
-</div> ```
+<!-- Glowing Thank You Message -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  <span style="color: #7F5AF0; text-shadow: 0 0 10px #2CB67D;">Thank You For Visiting</span> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h2>
+
+<!-- Sparkle Animation -->
+<p align="center">
+  ✨ <span style="color: #FF7139;">May your code always compile</span> ✨<br>
+  🌙 <span style="color: #2CB67D;">And your dreams deploy successfully</span> 🌙
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sai-kavya-m-6a76252a7/">
+    <img src="https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://my-portfolio-three-umber-11.vercel.app/">
+    <img src="https://img.shields.io/badge/-Explore_My_World-FF7139?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+<!-- Floating Stars Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=✨+Keep+Coding+With+Magic;🌌+See+You+In+The+Digital+Cosmos" alt="Typing SVG" />
+</div>
+
+</div>
