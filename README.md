@@ -80,38 +80,48 @@
 [![Portfolio](https://img.shields.io/badge/-Explore_My_World-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-three-umber-11.vercel.app/)
 
 </div>
-<!-- ✨ Stunning Visual Footer -->
+<!-- 🌈 Pure GitHub-Compatible Footer -->
 <div align="center">
 
-<!-- Animated Gradient Divider -->
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Glowing Thank You Message -->
+<!-- Animated Text Using GitHub Emojis -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-  <span style="color: #7F5AF0; text-shadow: 0 0 10px #2CB67D;">Thank You For Visiting</span> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  🌟 <span style="color: #7F5AF0;">Thank You For Visiting</span> 🌟
+  <br>
+  <span style="font-size: 0.9em;">
+    🚀 <span style="color: #2CB67D;">May your code always compile</span> 🚀
+  </span>
 </h2>
 
-<!-- Sparkle Animation -->
-<p align="center">
-  ✨ <span style="color: #FF7139;">May your code always compile</span> ✨<br>
-  🌙 <span style="color: #2CB67D;">And your dreams deploy successfully</span> 🌙
-</p>
-
-<!-- Social Badges -->
+<!-- Glowing Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-kavya-m-6a76252a7/">
-    <img src="https://img.shields.io/badge/-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-Let's_Collaborate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010">
   </a>
   <a href="https://my-portfolio-three-umber-11.vercel.app/">
-    <img src="https://img.shields.io/badge/-Explore_My_World-FF7139?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/-My_Digital_Garden-FF7139?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010">
   </a>
 </p>
 
-<!-- Floating Stars Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=✨+Keep+Coding+With+Magic;🌌+See+You+In+The+Digital+Cosmos" alt="Typing SVG" />
-</div>
+<!-- Pure CSS Animated Stars -->
+<p align="center">
+  <span style="font-size: 1.5em;">
+    ✨ ⋆˙ <span style="color: #FF7139;">Goodbye for now</span> ⋆˙ ✨
+  </span>
+  <br>
+  <span style="font-size: 0.8em; display: inline-block; animation: float 3s ease-in-out infinite;">
+    🚀 Shooting star passing by...
+  </span>
+</p>
+
+<style>
+  @keyframes float {
+    0% { transform: translateX(-20px); opacity: 0; }
+    50% { opacity: 1; }
+    100% { transform: translateX(20px); opacity: 0; }
+  }
+</style>
 
 </div>
