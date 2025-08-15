@@ -1,3 +1,14 @@
+# 🍁 Sai Kavya Majjiga 
+*"Like autumn leaves, my code falls in perfect patterns—*  
+*Crisp, vibrant, and full of hidden wonders."*  
+
+**Backend Developer • Cloud Whisperer • Algorithm Alchemist**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Share_Harvest-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Autumn_Leaves-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Saikavya_04/)  
+
+---
+
 <!-- 🌠 Tech Stack Constellation -->
 ## 🛠️ **My Celestial Toolkit**
 <div align="center">
