@@ -82,3 +82,18 @@
 </div>
 
 <!-- 🌠 Closing Poetry -->
+```java
+public class Farewell {
+    public static void main(String[] args) {
+        System.out.println("May your functions always return");
+        System.out.println("Your loops be elegant and swift");
+        System.out.println("And may we meet in the digital dawn");
+        System.out.println("Where creativity and code uplift");
+    }
+}
+<!-- 🌈 Waving Footer -->
+<div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=20&fontAlignY=65&text=Thank+You+For+Exploring+My+Digital+Universe)
+
+</div>
