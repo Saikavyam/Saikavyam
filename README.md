@@ -34,14 +34,34 @@
 </div>
 <!-- ⚡ Achievements Timeline -->
 ## 🏆 **My Legendary Quests**
-```mermaid
-timeline
-    title Sai Kavya's Odyssey
-    section 2024
-        Oracle AI Certified : "Carved runes in cloud stone"
-        HackerRank Gold : "Dual-wielded Java & Python"
-    section 2025
-        Code Clash Finalist : "Top 0.5% algorithm bard"
+
+<div align="center">
+  
+✨ **The Chronicles of My Code** ✨
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/2024-Cloud_Year-7F5AF0?style=for-the-badge&logo=bookstack&logoColor=white">
+      <ul style="text-align: left;">
+        <li>🏛️ <b>Oracle AI Certified</b><br><i>"Deciphered the cloud's ancient scrolls"</i></li>
+        <li>⚔️ <b>HackerRank Gold</b><br><i>"Mastered both Java and Python arts"</i></li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/2025-Algorithm_Year-2CB67D?style=for-the-badge&logo=chess-knight&logoColor=white">
+      <ul style="text-align: left;">
+        <li>🏆 <b>Code Clash Finalist</b><br><i>"Top 0.5% in the grand algorithm duel"</i></li>
+        <li>🔮 <b>More adventures coming...</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- Visual Timeline Bar -->
+<div style="background: linear-gradient(90deg, #7F5AF0 50%, #2CB67D 50%); height: 4px; width: 100%; margin: 10px 0;"></div>
+
+</div>
 
 <div align="center">
   
