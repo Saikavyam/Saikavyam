@@ -32,18 +32,18 @@
 | **[Cloud Cost Optimizer](https://github.com/Saikavyam/cloud-spend-sculptorl)** | *"Counting cloud coins with ML sight,<br>Found $15K savings in fiscal night"* | ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) |
 
 </div>
-
 ## 🏆 **My Legendary Quests**
-```mermaid
-timeline
-    title Sai Kavya's Odyssey
-    section 2024
-        Oracle AI Certified : "Carved runes in cloud stone"
-        HackerRank Gold : "Dual-wielded Java & Python"
-    section 2025
-        Code Clash Finalist : "Top 0.5% algorithm bard"
+<div align="center">
 
-<!-- 📊 GitHub Stats with Glow -->
+📅 **2024**  
+• 🏅 Oracle AI Certified - "Carved runes in cloud stone"  
+• ⚔️ HackerRank Gold - "Dual-wielded Java & Python"  
+
+📅 **2025**  
+• 🏆 Code Clash Finalist - "Top 0.5% algorithm bard"  
+
+</div>
+
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikavyam&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&custom_title=My%20Code%20Constellation)
