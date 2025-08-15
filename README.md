@@ -1,13 +1,19 @@
-# 🍁 Sai Kavya Majjiga 
-*"Like autumn leaves, my code falls in perfect patterns—*  
-*Crisp, vibrant, and full of hidden wonders."*  
+# 🔮 **Sai Kavya Majjiga**
+*"Like spells in the Hogwarts library, my code whispers its magic—*  
+*Each algorithm a potion, every function an enchanted artifact."*  
 
-**Backend Developer • Cloud Whisperer • Algorithm Alchemist**  
+**Backend Wizard • Cloud Sorcerer • Algorithm Arithmancer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Share_Harvest-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-350%2B_Autumn_Leaves-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Saikavya_04/)  
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/-Floo_Network_Connection-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2c061f)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
+[![LeetCode](https://img.shields.io/badge/-350%2B_Charms_Cast-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=2c061f)](https://leetcode.com/u/Saikavya_04/)  
+[![GitHub](https://img.shields.io/badge/-Gringotts_Vault-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=2c061f)](https://github.com/Saikavyam)
+
+</div>
+
+<!-- Magical divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- 🌠 Tech Stack Constellation -->
 ## 🛠️ **My Celestial Toolkit**
