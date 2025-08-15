@@ -31,6 +31,8 @@
 | **[Netflix Recommender](https://github.com/Saikavyam/NetflixRecommendation)** | *"Like a cinephile's digital muse,<br>87% accurate in what you'll choose"* | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis) |
 | **[Cloud Cost Optimizer](https://github.com/Saikavyam/cloud-spend-sculptorl)** | *"Counting cloud coins with ML sight,<br>Found $15K savings in fiscal night"* | ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) |
 
+</div>
+
 <!-- ⚡ Achievements Timeline -->
 ## 🏆 **My Legendary Quests**
 ```mermaid
