@@ -96,4 +96,4 @@ public class Farewell {
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=20&fontAlignY=65&text=Thank+You+For+Exploring+My+Digital+Universe)
 
-</div>
+</div>```
