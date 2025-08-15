@@ -33,6 +33,16 @@
 
 </div>
 
+## 🏆 **My Legendary Quests**
+```mermaid
+timeline
+    title Sai Kavya's Odyssey
+    section 2024
+        Oracle AI Certified : "Carved runes in cloud stone"
+        HackerRank Gold : "Dual-wielded Java & Python"
+    section 2025
+        Code Clash Finalist : "Top 0.5% algorithm bard"
+
 <!-- 📊 GitHub Stats with Glow -->
 <div align="center">
   
