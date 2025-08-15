@@ -1,17 +1,11 @@
-<!-- 🏰 Hogwarts-Themed README -->
-<div align="center">
+# 🦌 **Sai Kavya Majjiga**
+*"Expecto Patronum! My code repels bugs like Dementors—*  
+*Shining bright with the light of clean architecture."*  
 
-# 🧙‍♀️ **Sai Kavya Majjiga**  
-*"Specializing in Computational Arithmancy and*  
-*Advanced Charmcraft for Magical Systems"*  
+**Backend Wizard • Patronus Caster • Time-Turner Developer**  
 
-[![Hogwarts House](https://img.shields.io/badge/House_Ravenclaw-0e1a40?style=for-the-badge&logo=azurepipelines&logoColor=blueviolet)](https://www.wizardingworld.com)  
-[![Wand Core](https://img.shields.io/badge/Wand-Dragon_Heartstring-7f0909?style=flat)](https://harrypotter.fandom.com/wiki/Wand)  
-[![Patronus](https://img.shields.io/badge/Patronus-Otter-2c061f?style=flat)](https://www.pottermore.com)
-
-</div>
-
----
+[![LinkedIn](https://img.shields.io/badge/-Ministry_Connection-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)]()
+[![LeetCode](https://img.shields.io/badge/-350%2B_Spells_Cast-FFD700?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1b2a)]()
 <!-- 🌠 Tech Stack Constellation -->
 
 ## 🛠️ **My Celestial Toolkit**
