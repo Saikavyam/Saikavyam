@@ -1,20 +1,22 @@
-# 🔮 **Sai Kavya Majjiga**
-*"Like spells in the Hogwarts library, my code whispers its magic—*  
-*Each algorithm a potion, every function an enchanted artifact."*  
+# 🧙‍♀️ **Sai Kavya Majjiga**  
+*"Specializing in Computational Arithmancy and*  
+*Advanced Charmcraft for Magical Systems"*  
 
-**Backend Wizard • Cloud Sorcerer • Algorithm Arithmancer**  
+**Hogwarts-Approved Titles:**  
+🔮 *Backend Curse-Breaker* (Gringotts Certified)  
+☁️ *Cloud Charms Master* (Department of Mysteries)  
+🧮 *Arithmancer First Class* (Ministry Accredited)  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Floo_Network_Connection-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2c061f)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
-[![LeetCode](https://img.shields.io/badge/-350%2B_Charms_Cast-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=2c061f)](https://leetcode.com/u/Saikavya_04/)  
-[![GitHub](https://img.shields.io/badge/-Gringotts_Vault-6e5494?style=for-the-badge&logo=github&logoColor=white&labelColor=2c061f)](https://github.com/Saikavyam)
+[![LinkedIn](https://img.shields.io/badge/-Ministry_Floo_Network-2c061f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=740001)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
+[![LeetCode](https://img.shields.io/badge/-350%2B_Spells_Mastered-FFD700?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a472a)](https://leetcode.com/u/Saikavya_04/)  
+[![GitHub](https://img.shields.io/badge/-Hogwarts_Library-0e1a40?style=for-the-badge&logo=github&logoColor=white&labelColor=5d5d5d)](https://github.com/Saikavyam)
 
 </div>
 
-<!-- Magical divider -->
+<!-- Marauder's Map Footprint Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <!-- 🌠 Tech Stack Constellation -->
 ## 🛠️ **My Celestial Toolkit**
 <div align="center">
