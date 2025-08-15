@@ -33,19 +33,7 @@
 
 </div>
 
-<!-- ⚡ Achievements Timeline -->
-## 🏆 **My Legendary Quests**
-```mermaid
-timeline
-    title Sai Kavya's Odyssey
-    section 2024
-        Oracle AI Certified : "Carved runes in cloud stone"
-        HackerRank Gold : "Dual-wielded Java & Python"
-    section 2025
-        Code Clash Finalist : "Top 0.5% algorithm bard"
 
-<!-- 📊 GitHub Stats with Glow -->
-<div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saikavyam&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true&custom_title=My%20Code%20Constellation)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikavyam&layout=compact&theme=nightowl&hide_border=true)
