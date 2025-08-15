@@ -32,7 +32,7 @@
 | **[Cloud Cost Optimizer](https://github.com/Saikavyam/cloud-spend-sculptorl)** | *"Counting cloud coins with ML sight,<br>Found $15K savings in fiscal night"* | ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) |
 
 </div>
-<!-- ⚡ Achievements Timeline -->
+
 ## 🏆 **My Legendary Quests**
 
 <div align="center">
