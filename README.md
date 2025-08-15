@@ -4,8 +4,8 @@
 
 **Backend Wizard • Patronus Caster • Time-Turner Developer**  
 
-[![LinkedIn](https://img.shields.io/badge/-Ministry_Connection-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)]()
-[![LeetCode](https://img.shields.io/badge/-350%2B_Spells_Cast-FFD700?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1b2a)]()
+[![LinkedIn](https://img.shields.io/badge/-Ministry_Connection-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)
+[![LeetCode](https://img.shields.io/badge/-350%2B_Spells_Cast-FFD700?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1b2a)](https://leetcode.com/u/Saikavya_04/) 
 <!-- 🌠 Tech Stack Constellation -->
 
 ## 🛠️ **My Celestial Toolkit**
