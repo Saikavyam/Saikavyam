@@ -33,7 +33,7 @@
 
 </div>
 ## 🏆 **My Legendary Quests**
-<div align="center">
+<div align="left">
 
 📅 **2024**  
 • 🏅 Oracle AI Certified - "Carved runes in cloud stone"  
