@@ -81,6 +81,8 @@
 
 </div>
 
+<!-- 🌠 Closing Poetry & Footer -->
+<div align="center">
 
 ```java
 public class Farewell {
@@ -91,9 +93,6 @@ public class Farewell {
         System.out.println("Where creativity and code uplift");
     }
 }
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=25&fontAlignY=70&text=Thank+You+For+Visiting+My+Code+Galaxy&animation=fadeIn
 
-<div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontSize=20&fontAlignY=65&text=Thank+You+For+Exploring+My+Digital+Universe)
-
-</div>```
+</div> ```
