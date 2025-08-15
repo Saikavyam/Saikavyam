@@ -113,11 +113,5 @@
     🚀 Shooting star passing by...
   </span>
 </p>
-<style>
-  @keyframes float {
-    0% { transform: translateX(-20px); opacity: 0; }
-    50% { opacity: 1; }
-    100% { transform: translateX(20px); opacity: 0; }
-  }
-</style>
+
 </div>
