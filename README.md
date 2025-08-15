@@ -1,19 +1,26 @@
+<!-- 🏰 Hogwarts-Themed README -->
+<div align="center">
+
 # 🧙‍♀️ **Sai Kavya Majjiga**  
 *"Specializing in Computational Arithmancy and*  
 *Advanced Charmcraft for Magical Systems"*  
 
-**Hogwarts-Approved Titles:**  
-🔮 *Backend Curse-Breaker* (Gringotts Certified)  
-☁️ *Cloud Charms Master* (Department of Mysteries)  
-🧮 *Arithmancer First Class* (Ministry Accredited)  
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Ministry_Floo_Network-2c061f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=740001)](https://www.linkedin.com/in/sai-kavya-m-6a76252a7/)  
-[![LeetCode](https://img.shields.io/badge/-350%2B_Spells_Mastered-FFD700?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a472a)](https://leetcode.com/u/Saikavya_04/)  
-[![GitHub](https://img.shields.io/badge/-Hogwarts_Library-0e1a40?style=for-the-badge&logo=github&logoColor=white&labelColor=5d5d5d)](https://github.com/Saikavyam)
+[![Hogwarts House](https://img.shields.io/badge/House_Ravenclaw-0e1a40?style=for-the-badge&logo=azurepipelines&logoColor=blueviolet)](https://www.wizardingworld.com)  
+[![Wand Core](https://img.shields.io/badge/Wand-Dragon_Heartstring-7f0909?style=flat)](https://harrypotter.fandom.com/wiki/Wand)  
+[![Patronus](https://img.shields.io/badge/Patronus-Otter-2c061f?style=flat)](https://www.pottermore.com)
 
 </div>
+
+---
+
+## 🏆 **Wizarding Credentials**
+```mermaid
+pie
+    title Magical Achievements
+    "OWLs (Outstanding) : 5" : 35
+    "NEWTs (Exceeds Expectations) : 4" : 25
+    "Ministry Certifications : 3" : 20
+    "Order of Merlin (Third Class)" : 20
 
 <!-- Marauder's Map Footprint Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
